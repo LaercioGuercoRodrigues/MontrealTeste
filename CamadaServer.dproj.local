@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/26 05:55:28.518,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\FormUnit1.pas</Transaction>
+    <Transaction>2022/11/26 05:55:28.771,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/11/26 05:55:28.858,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/11/26 05:55:28.982,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/11/26 05:55:29.108,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\base64.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.135,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.172,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\json2.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.202,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\callbackframework.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.233,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\serverfunctions.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.305,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\base64-min.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.398,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\json2-min.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.435,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.475,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\callbackframework-min.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.549,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\connection.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.590,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\js\serverfunctioninvoker.js</Transaction>
+    <Transaction>2022/11/26 05:55:29.645,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\css\main.css</Transaction>
+    <Transaction>2022/11/26 05:55:29.694,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\css\serverfunctioninvoker.css</Transaction>
+    <Transaction>2022/11/26 05:55:29.740,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\templates\reversestring.html</Transaction>
+    <Transaction>2022/11/26 05:55:29.782,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\templates\serverfunctioninvoker.html</Transaction>
+    <Transaction>2022/11/26 05:55:29.944,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\images\collapse.png</Transaction>
+    <Transaction>2022/11/26 05:55:29.982,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\images\expand.png</Transaction>
+    <Transaction>2022/11/26 05:56:36.167,D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\FormMonitor.dfm=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\FormUnit1.dfm</Transaction>
+    <Transaction>2022/11/26 05:56:36.167,D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\FormMonitor.pas=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\FormUnit1.pas</Transaction>
+    <Transaction>2022/11/26 05:58:08.675,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\Unit1.pas</Transaction>
+    <Transaction>2022/11/26 05:59:12.725,D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\U_DMSMCadastro.pas=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\Unit1.pas</Transaction>
+    <Transaction>2022/11/26 05:59:12.725,D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\U_DMSMCadastro.dfm=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\Unit1.dfm</Transaction>
+    <Transaction>2022/11/27 18:32:48.130,=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\Unit1.pas</Transaction>
+    <Transaction>2022/11/27 18:33:43.647,D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\U_DMSMVenda.pas=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\Unit1.pas</Transaction>
+    <Transaction>2022/11/27 18:33:43.647,D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\U_DMSMVenda.dfm=D:\Laercio\Montreal\TestePratico\Sistemas\CamadaServer\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
